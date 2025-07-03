@@ -581,7 +581,7 @@ So how do you counteract something that you cannot hear, cannot see, and instant
 
 <figure style="max-width: 600px; margin: auto;">
   <video controls style="width: 100%; height: auto;">
-    <source src="videos/f32.webm" type="video/mp4">
+    <source src="videos/f32.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </figure>
