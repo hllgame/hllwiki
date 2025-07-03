@@ -18,3 +18,6 @@ Credit: [Duned](https://www.youtube.com/@Duned)
 Credit: [lamellus](https://reddit.com/r/HellLetLoose/comments/1i3n6e5/tank_identification_cheat_sheet_update_16)
 
 ![](atguide/atguide_image2.jpg)<br>
+
+Here are some things that stand out visually to help you identify the tank.
+![](atguide/atguide_image3.jpg)<br>
