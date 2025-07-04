@@ -2,4 +2,8 @@
 Use the navigation menu on the left to navigate this wiki.
 
 # Contribute
-Contibuting is encouraged. Ideally, create a pull request on the github repository. Otherwise, open an issue on the github page with the changes/content. Please remember to credit original author(s) and link any applicable references.
+Contibuting is encouraged, here are some ways you can do it. Please remember to credit original author(s) and link any applicable references.
+
+- Submit a pull request on GitHub (preferred method, but may not be suitable for non-technical users)
+- At the bottom of each guide page there is a comment section, you can use Github account to make a comment.
+- Open a new issue on [Github](https://github.com/hllgame/hllwiki/issues).
