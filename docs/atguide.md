@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Anti-tank Guide
 
 # AT Overview

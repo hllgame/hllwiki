@@ -1,3 +1,6 @@
+---
+comments: true
+---
 The Tank Bible
 
 # Disclaimer
