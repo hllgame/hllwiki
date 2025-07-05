@@ -499,7 +499,7 @@ In Update 12, the PTRS *cannot* take advantage of the Achilles Heel.
 
 For the second update in a row, the developers have seen fit to change AT guns and now nobody in public matches knows how they work (again). Luckily for you, dear reader, I am here to clear up any confusion. AT guns can still penetrate any vehicle in the game, including heavies, pretty much anywhere, but they deal a lot less damage than in Update 12 than they previously did. All AT guns of all factions deal the same damage to the same tiers of tanks, so the following table contains all the statistics you need to know as a tanker about their damage values:
 
-![](images/table_atgun.PNG)
+![](images/table_atgun.png)
 
 *Note: All AT guns kill all trucks and halftracks in 1 shot to the body or engine.*
 
@@ -519,7 +519,7 @@ As for the mechanics of dealing with AT guns, they are small in size and can be 
 
 Ah, mines. The erstwhile bane of every tanker’s existence, turned into a useless toy that nobody uses. All mines in the game from all factions act exactly the same way and deal the exact same damage to all tanks based on their class. Here is the breakdown:
 
-![](images/table_mines.PNG)
+![](images/table_mines.png)
 
 There are two ways mines can interact with tanks. If a tank runs over a mine with its track only, it will blow up and deal damage to just the track. If the tank runs over the mine with its body (or chassis), the mine will still explode, and deal much more damage. Mines in Update 12 do not deal proximity damage, so tankers can breathe easy knowing that they cannot get hurt by a mine even if it is placed right under or next to them and blown up with a grenade. Only if the tank itself moves can it get damaged by mines.
 
@@ -557,7 +557,7 @@ Proximity damage to tanks from satchels starts from as far as about 25m and incr
 
 Unlike Update 10, the satchels in Update 12 have been standardized such that all satchels deal the same amount of damage to all factions’ tanks, now depending only on the tier of the tank. As a result, the following table is a generalization of the **maximum distance** (in meters) at which **satchels placed on the ground will destroy full-health tanks in 1 blow**:
 
-![](images/table_satchel.PNG)
+![](images/table_satchel.png)
 
 As the above data shows, it is possible to kill medium and heavy tanks with a satchel placed on the floor 12m in front of the tank or 4m from the side, and this effect **goes through walls and corners of buildings**. In other words, urban maps such as Carentan, Stalingrad, and Sainte-Mere-Eglise are much more dangerous to tanks than they already were because enterprising AT players can satchel you from places you cannot see (such as the inside wall of a building you are next to) with no counterplay available to the tankers. Additionally, AT players that are having a hard time placing a satchel on your tank as you are spinning to try to kill them may opt to put the satchel on the floor instead, which is much harder to see (you could kill the AT player, get out, see no satchel on the tank, get back in, and still blow up).
 
@@ -658,7 +658,7 @@ Lastly, here’s what makes the BA-10 stand out (Figure 35):
 
 With that out of the way, let’s talk about the damage these things can do. Recon vehicles’ AP shells are pretty weak in Update 12, meaning that you need a large amount of shots to kill medium and heavy tanks. It should also be noted that although the AP shells deal a minuscule amount of damage, HE shells are still as powerful as ever at destroying enemy recon and light tanks as well as halftracks and trucks. Since recon vehicles are functionally identical, the following table is an accurate generalization of their performance versus other recon vehicles as well as light, medium, and heavy tanks:
 
-![](images/table_recon.PNG)
+![](images/table_recon.png)
 *R - Ricochet or non-penetrating hit*
 
 *#D - # shots to disable module (no hull damage), after which becomes non-penetrating hit*
@@ -723,7 +723,7 @@ Figure 37: "Thomas The Tank Engine"
 
 Below are the amount of rounds required to kill various enemy tank types with the Stuart:
 
-![](images/table_bazooka.PNG)
+![](images/table_bazooka.png)
 
 *R - Ricochet or non-penetrating hit*
 
@@ -783,7 +783,7 @@ Figure 38: "The M4A1 Sherman Medium"
 
 This table shows some baseline stats about the "chubby" Sherman, as I like to call it:
 
-![](images/mediumstats.PNG)
+![](images/mediumstats.png)
 
 Notice that the new Sherman variant contains 13 rounds of the smoke variety. Smoke rounds coming from tanks have been changed in Update 12—these new smokes are slightly bigger in size and thicker in density than infantry smokes but last about as long, making them quite a bit less useful than the old "Jumbo" 75mm or artillery smoke varieties. They can still be utilized to moderate effect if your infantry is trying to push a specific area of the map or to blind enemy tanks temporarily and force them to move, but they dissipate very quickly so their uses are situational.
 
@@ -915,13 +915,13 @@ Figure 45: "The M4A3E2 Sherman ‘Jumbo’ 75mm"
 
 First thing’s first, the stats:
 
-![](images/table_75mm.PNG)
+![](images/table_75mm.png)
 
 The "Jumbo" 75mm is also equipped with smoke rounds, however much like the medium Sherman, these new smoke rounds in Update 12 are only marginally bigger than an infantry smoke and disperse about as fast. These facts, coupled with the 75mm "Jumbo"’s lackluster supply of only 6 smoke rounds, makes them practically useless in a real game. Notice as well that the reload speed of the 75mm "Jumbo" is 2 seconds longer than the reload speed for the medium Sherman and the Panther, making this tank even more of a meme than it already is.
 
 Both "Jumbo" variants have identical transmissions and engines, meaning their turn speed and maximum speed are the same, and they drive exactly the same. They have a slow maximum speed, but in stark contrast to other heavies such as the Panther, the "Jumbo"s have the highest 1st gear and reverse turn speeds of all the heavy tanks.
 
-![](images/table_jumbowheels.PNG)
+![](images/table_jumbowheels.png)
 
 Once again, here are the amount of shots it takes to kill various types of enemy tanks using the 75mm gun. The "Jumbo" 75mm has the exact same gun as the Sherman medium.
 
@@ -997,7 +997,7 @@ The "Jumbo" 76mm has a large supply of HE rounds and a small supply of AP rounds
 
 Both "Jumbo" variants have identical transmissions and engines, meaning their turn speed and maximum speed are the same, and they drive exactly the same. They have a slow maximum speed, but in stark contrast to other heavies such as the Panther, the "Jumbo"s have the highest 1st gear and reverse turn speeds of all the heavy tanks.
 
-![](images/table_jumbowheels.PNG)
+![](images/table_jumbowheels.png)
 
 The "Jumbo" 76mm shares some of the same driving characteristics with other heavy tanks, namely a slow top speed and an extremely sluggish 3rd/4th gear turn speed (34s for a full turn is plenty of time for an AT player to shoot 2 rounds into a "Jumbo"s butt).
 
@@ -1139,11 +1139,11 @@ Figure 48: "The Panzerkampfwagen IV"
 
 Below are the general stats. There is a good mix of AP and HE rounds, but the top speed is slightly slower than that of the other mediums.
 
-![](images/table_p4stats.PNG)
+![](images/table_p4stats.png)
 
 And here’s how it drives:
 
-![](images/table_p4wheels.PNG)
+![](images/table_p4wheels.png)
 
 The Panzer IV enjoys a very fast 3rd and 4th gear turn speed rivaled only by the T-34/76 and the Panther. This is useful when swerving against enemy AT players, rounding corners, and making maneuvers. It should be noted that the front hull of the Panzer IV sits very low to the ground, so it can snag on even small obstacles such as rocks, rubble piles, dirt mounds, train tracks, etc. If this ever happens, you can quickly downshift to 3rd gear to give yourself some extra leeway and keep your momentum going without stalling. If you aren’t quick enough and stall the tank, you’ll have to go all the way back down to 1st gear. Panzer IV drivers should also note that you should take at least a 45° angle to get over steep berms or obstacles if you wish to stay in 4th gear.
 
@@ -1300,7 +1300,7 @@ Another thing to notice is the top speed. Heavies like the "Jumbo"s and the Tige
 
 Next, let’s look at the mobility of the Panther:
 
-![](images/table_pantherwheels.PNG)
+![](images/table_pantherwheels.png)
 
 As if the stats of the Panther were not already stacked enough, it turns out that the Panther has the highest 3rd and 4th gear turn speed of any heavy in the game, even rivaling that of the mediums (which are supposed to have more mobility). Interestingly, the Panther has a unique quirk among the rest of the tanks in the game in that its 4th gear turn speed is actually its fastest turn speed (usually the 3rd gear or 1st gear are the fastest gears). The Panther’s mobility coupled with its high top speed allows Panther drivers to really whip this thing around and get to places faster than most other tanks. By contrast, the Panther’s 1st gear and reverse turn speeds are much slower than other heavies like the Tiger and the "Jumbo"s, which promotes really aggressive flank gameplay where you never stop moving. Unlike some of the more recently introduced tanks, the Panther has no trouble getting over obstacles and berms or performing any of the mobility tricks outlined in [section 2.6.2](#262-advanced-agility-techniques-mlg-only), allowing it to adopt this style of play easily, and its driver viewport takes up almost the entire screen, affording the Panther driver much greater visibility than drivers of other factions’ heavy tanks.
 
