@@ -4,6 +4,7 @@ repo_url: https://github.com/hllgame/hllwiki
 
 plugins:
   - glightbox
+  - search
 
 theme:
   name: material
