@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Tank Range Guide
 Note: Data is based on [Tank Aiming Guide - Hell Let Loose
 ](https://www.youtube.com/watch?v=cGPISrnsp4Y).
