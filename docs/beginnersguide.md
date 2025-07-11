@@ -2,11 +2,11 @@
 comments: true
 ---
 # Beginners Guide
-
+---
 ## **Introduction**
 This guide is meant to get new players quickly introduced to basic game mechanics. **Please use your microphone in game to communicate with your squad**.
 
-## **Server Browser**
+## :material-server:**Server Browser**
 ![](beginnersguide/beginnersguide_image1.png)
 
 - It's recommended you sort the list by "Ping" column to find low latency servers.
@@ -24,7 +24,8 @@ This guide is meant to get new players quickly introduced to basic game mechanic
 
 **4.** Queue to join the game. 4 players currently waiting in queue, 6 is the maxiumum players the queue can hold.
 
-## **Spawn Screen**
+---
+## :material-monitor:**Spawn Screen**
 ![](beginnersguide/beginnersguide_image6.png)
 Deployment screen
 
@@ -64,8 +65,10 @@ Important icons to note on map screen
 
 - If spawn point turns red, you'll be unable to deploy to it as there is enemy right next to the spawn point which is locking it out.
 
-## **Game Modes**
-### **Warfare**
+---
+
+## :material-gamepad:**Game Modes**
+### **Warfare Game Mode**
 ![](beginnersguide/beginnersguide_image4.png)
 Example of a map screen
 
@@ -85,8 +88,30 @@ Example of a map screen
 
 - A player standing inside the black strong point circle **counts as 3**.
 - A player standing in a 2x2 grid sector around the active strong point **counts as 1**.
-- Capture weight has no affect on speed of the capture. The **capture time in warfare is always 2 minutes**.
+- Capture power has no affect on speed of the capture. The **capture time in warfare is always 2 minutes**.
 
-## Offensive
+### **Offensive Game Mode**
+- There is an attacking team and a defending team.
+- No recapturing of objective is allowed.
+- **Only players inside strong point (black circle)** count toward capturing power.
+- Attacking team has **30 minutes to capture strong point** to gain sector control and advance an attack to next sector.
+- 30 minute timer resets each time attacking team captures a strong point.
+- **Overtime** will be initiated if the strong point is contested when timer runs out.
+- Attackers win if they push defenders all the way back and capture enemy HQ sector.
+- **Attackers only get one HQ spawn in the beginning**, they must work to build additional spawn points.
+- Defenders have 3 HQ spawn points plus an additional **3 garrisons at the frontline** at the beginning of round.
 
-## General Tips
+![](beginnersguide/beginnersguide_image9.png)
+
+View of a defender's map, note the 3 garrisons placed near the frontline.
+
+---
+
+## :material-information:General Tips
+![](beginnersguide/beginnersguide_image10.png)
+
+Each large **grid square on the map is 200 meters**. The **minimum distance between garrison placement is 200 meters** as well. Use this as your guide for placing supplies and garrisons.
+
+**Use "Redeploy" button** in the Esc menu whenever needed. There is no real penalty to using it other than extra 10 second respawn time. Use it to quickly spawn back on defense when sectors change hand and you're too far away. The same principle applies if you're attacking.
+
+Take your time to observe, avoid sprinting frequently.
