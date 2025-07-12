@@ -1,7 +1,7 @@
-# Welcome to Hell Let Loose Wiki
+# :material-home:Welcome to Hell Let Loose Wiki
 Use the navigation menu on the left to navigate this wiki.
 
-# Contribute
+# :material-note-edit:Contribute
 Contibuting is encouraged, here are some ways you can do it. Please remember to credit original author(s) and link any applicable references.
 
 - Submit a pull request on GitHub (preferred method, but may not be suitable for non-technical users)

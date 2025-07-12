@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Artillery Calculator
+# :material-calculator:Artillery Calculator
 
 A simple artillery calculator:
 [https://www.hell-let-loose-calculator.com/](https://www.hell-let-loose-calculator.com/)
