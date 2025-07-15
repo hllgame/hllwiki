@@ -61,7 +61,7 @@ This guide is meant to get new players quickly introduced to basic game mechanic
 
 {{ icon('antitank') }}**Anti-Tank** – Equipped with anti-tank weapons; responsible for taking out enemy armor.
 
-{{ icon('engineer') }}**Engineer** – Builds fortifications, nodes, and obstacles using {{ icon('supplies') }}supplies; carries mines and explosives.
+{{ icon('engineer') }}**Engineer** – Builds fortifications and nodes{{ icon('node_munitions') }}{{ icon('node_manpower') }}{{ icon('node_fuel') }} using {{ icon('supplies') }}supplies; carries mines and explosives. Each node generates +10 resource per minute for commander.
 
 {{ icon('officer') }}**Officer** – AKA squad leader. Leads the squad, places outposts/garrisons using {{ icon('supplies') }}supplies, and communicates with commander and other officers.
 
@@ -135,17 +135,17 @@ Each large **grid square on the map is 200x200 meters**. The **minimum distance 
 
 **Do not move or start the engine of the {{ icon('halftrack') }}half-track** unless instructed by a officer or commander. They need to be placed carefully on the map and allow for team to spawn when engine is turned off.
 
-Leave {{ icon('truck_supply') }}supply trucks for {{ icon('engineer') }}Engineers to build nodes or {{ icon('officer') }}Officer/{{ icon('commander') }}Commander to build {{ icon('garrison') }}garrison.
+Leave {{ icon('truck_supply') }}supply trucks for {{ icon('engineer') }}Engineers to build nodes{{ icon('node_munitions') }}{{ icon('node_manpower') }}{{ icon('node_fuel') }} or {{ icon('officer') }}Officer/{{ icon('commander') }}Commander to build {{ icon('garrison') }}garrison.
 
 Grenades have no affect on enemy tanks, you need a sachel or AT weapon to destory them.
 
 ## Supplies
-{{ icon('supplies') }} Supplies are essential part of winning. Supplies allow {{ icon('officer') }}officers or {{ icon('commander') }}commanders to build garrisons so the team can redeploy near the objective. They also allow {{ icon('engineer') }}Engineers to build nodes which increase rate at which resources generate per minute for commander to use their various abilities.
+{{ icon('supplies') }} Supplies are essential part of winning. Supplies allow {{ icon('officer') }}officers or {{ icon('commander') }}commanders to build garrisons so the team can redeploy near the objective. They also allow {{ icon('engineer') }}Engineers to build nodes{{ icon('node_munitions') }}{{ icon('node_manpower') }}{{ icon('node_fuel') }} which increase rate at which resources generate per minute for commander to use their various abilities.
 
 ![](beginnersguide/beginnersguide_image11.png)
 
 - 50 supplies are needed to build a {{ icon('garrison') }}garrison in blue/friendly zone.
 - 100 supplies are needed to build a {{ icon('garrison') }}garrison in red/enemy zone.
-- 50 supplies are need to build one resource node by an {{ icon('engineer') }}Engineer.
+- 50 supplies are need to build one resource node{{ icon('node_munitions') }}{{ icon('node_manpower') }}{{ icon('node_fuel') }} by an {{ icon('engineer') }}Engineer.
 - The cost of supplies to defensive structures varies by each structure.
 - 50 supplies are needed to build an AT-Gun, it can only be built by {{ icon('antitank') }}Anti-Tank role with the correct kit.
