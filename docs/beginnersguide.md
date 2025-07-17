@@ -33,7 +33,7 @@ This guide is meant to get new players quickly introduced to basic game mechanic
 
 - **Note**: **Do not create a new squad**, you'll be locked in {{ icon('officer') }}Squad Officer role which is only recommended for experienced players.
 
-**2.** Select spawn point on the list from the right or click one on the map in the middle.
+**2.** Select spawn point from the list on the right or click one on the map in the middle.
 
 **3.** Click deploy button and wait for the timer.
 
@@ -137,7 +137,7 @@ Each large **grid square on the map is 200x200 meters**. The **minimum distance 
 
 Leave {{ icon('truck_supply') }}supply trucks for {{ icon('engineer') }}Engineers to build nodes{{ icon('node_munitions') }}{{ icon('node_manpower') }}{{ icon('node_fuel') }} or {{ icon('officer') }}Officer/{{ icon('commander') }}Commander to build {{ icon('garrison') }}garrison.
 
-Grenades have no affect on enemy tanks, you need a sachel or AT weapon to destory them.
+Grenades have no affect on enemy tanks, you need a sachel or AT weapon to destroy them.
 
 ## Supplies
 {{ icon('supplies') }} Supplies are essential part of winning. Supplies allow {{ icon('officer') }}officers or {{ icon('commander') }}commanders to build garrisons so the team can redeploy near the objective. They also allow {{ icon('engineer') }}Engineers to build nodes{{ icon('node_munitions') }}{{ icon('node_manpower') }}{{ icon('node_fuel') }} which increase rate at which resources generate per minute for commander to use their various abilities.
@@ -147,5 +147,5 @@ Grenades have no affect on enemy tanks, you need a sachel or AT weapon to destor
 - 50 supplies are needed to build a {{ icon('garrison') }}garrison in blue/friendly zone.
 - 100 supplies are needed to build a {{ icon('garrison') }}garrison in red/enemy zone.
 - 50 supplies are need to build one resource node{{ icon('node_munitions') }}{{ icon('node_manpower') }}{{ icon('node_fuel') }} by an {{ icon('engineer') }}Engineer.
-- The cost of supplies to defensive structures varies by each structure.
+- The cost of supplies to build fortification structures varies by each structure.
 - 50 supplies are needed to build an AT-Gun, it can only be built by {{ icon('antitank') }}Anti-Tank role with the correct kit.
